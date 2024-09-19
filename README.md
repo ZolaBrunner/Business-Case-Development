@@ -1,5 +1,18 @@
 # BeyondMedia 2.0 - Business Case Development
 
+## Table of Contents
+- [Business Case Information](#business-case-information)
+- [Business Idea](#business-idea)
+- [Executive Statement](#executive-statement)
+- [Problem Statement](#problem-statement)
+- [Proposed Solution](#proposed-solution)
+- [Market Analysis](#market-analysis)
+- [Financial Analysis](#financial-analysis)
+- [Risk Assessment](#risk-assessment)
+- [Implementation Plan](#implementation-plan)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Business Case Information
 - **Prepared by**: Zola Brunner
 - **Approved by**: Solethu Nqubula
@@ -7,6 +20,7 @@
 - **Date of First Revision**: 12 September 2024
 
 ---
+
 
 ## [Business Idea](#business-idea)
 
