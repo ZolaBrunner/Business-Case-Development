@@ -51,6 +51,8 @@ BeyondMedia 2.0 proposes a comprehensive solution to address these challenges:
 ## [Market Analysis](#market-analysis)
 
 The market for creative freelancers in South Africa is growing, with the rise of remote work and the increasing importance of the digital economy.
+SWOT Analysis
+Porter's 5 forces analysis
 
 ### Key Market Insights:
 - **Target Market**: Freelancers in creative sectors such as digital media, design, and marketing.
