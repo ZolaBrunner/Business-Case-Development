@@ -55,6 +55,9 @@ The market for creative freelancers in South Africa is growing, with the rise of
 - <a href="https://lucid.app/lucidspark/c1152582-42be-45bb-b4dd-5517546f752a/edit?viewport_loc=-13%2C-266%2C4577%2C4597%2C0_0&invitationId=inv_081b458d-21f3-48db-8046-ec18d5a6fceb"> SWOT Analysis</a>
 - <a href="http://lucid.app/lucidspark/18d488c4-87c2-45a1-8d60-c1d55da913a5/edit?invitationId=inv_0fcac234-34b6-4d77-a9d4-a614067c5d63)"> Porter's 5 forces analysis</a>
 
+You can access the complete market analysis in the following GitHub repository:
+[Market Analysis Repository on GitHub](https://github.com/ZolaBrunner/market-analysis-tech-startup/tree/1a78f326dc6cf4cb85a7384843642f54bce96a22)
+
 ### Key Market Insights:
 - **Target Market**: Freelancers in creative sectors such as digital media, design, and marketing.
 - **Market Size**:
