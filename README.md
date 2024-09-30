@@ -156,7 +156,9 @@ The identified risks could potentially hinder the progress of BeyondMedia 2.0's 
 **It is essential to continuously monitor the evolving landscape, assess emerging risks, and adjust strategies accordingly.** 
 By proactively addressing these potential challenges, BeyondMedia 2.0 can enhance its resilience and contribute to the revitalization of the creative industries in South Africa.
 
-https://zolabrunner.bitbucket.io/projects/<BeyondMedia-2.0-Risk Matrix>/repos
+[Risk Analysis Repository on GitHub (https://zolabrunner.bitbucket.io/projects/<BeyondMedia-2.0-Risk Matrix>/rep))
+
+os
 
 
 ---
